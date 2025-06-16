@@ -49,6 +49,14 @@
       flex-wrap: wrap;
       gap: 1em;
     }
+	.gold-button {
+    background-color: gold;
+    color: black; /* Or white, depending on what looks best */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px; /* optional for rounded corners */
+    cursor: pointer;
+}  
     nav a {
       background: #333;
       padding: 0.8em 1.5em;
@@ -183,6 +191,7 @@
     <h1>Allen E. Goldenthal</h1>
     <p>Author of The Kahana Chronicles series — and so much more</p>
  <button onclick="document.getElementById('bg-audio').play()">Mood Music</button>
+<button onclick="document.getElementById('bg-audio').pause()">Pause Music</button>
   <audio id="bg-audio" src="Ben Hur - Miracle and Finale.mp3" loop></audio>
   </header>
 
