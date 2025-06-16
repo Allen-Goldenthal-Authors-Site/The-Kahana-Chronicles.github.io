@@ -1,4 +1,4 @@
-# The-Kahana-Chronicles-github.io
+# Bibliography-github.io
 A look into the creative consciousness of the renown author of the Kahana Chronicles
 Dr. Allen Goldenthal is the renown author of the Kahana Chronicles Series of novels.
 The series deals with one family's effect by playing a pivotal role in creating and changing the history of the world for hundreds of years but having done so from the shadows.
